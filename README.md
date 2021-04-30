@@ -1,4 +1,4 @@
-Plantilla creada con ♥ Por los PM para los Alumnos del Stand para que puedan practicar.
+Plantilla creada con ♥ Por los PM del Grupo 9 para los Alumnos del Stand así pueden practicar.
 
 Dependencias instaladas en el Repo:
 - React
